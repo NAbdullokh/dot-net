@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Second Code\obj\Debug\net6.0\Second Code.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Second Code\obj\Debug\net6.0\Second Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Second Code\obj\Debug\net6.0\Second Code.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Second Code\obj\Debug\net6.0\Second Code.AssemblyInfo.cs
+C:\Users\User\source\repos\Second Code\obj\Debug\net6.0\Second Code.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Second Code\bin\Debug\net6.0\Second Code.exe
+C:\Users\User\source\repos\Second Code\bin\Debug\net6.0\Second Code.deps.json
+C:\Users\User\source\repos\Second Code\bin\Debug\net6.0\Second Code.runtimeconfig.json
+C:\Users\User\source\repos\Second Code\bin\Debug\net6.0\Second Code.dll
+C:\Users\User\source\repos\Second Code\bin\Debug\net6.0\Second Code.pdb
+C:\Users\User\source\repos\Second Code\obj\Debug\net6.0\Second Code.dll
+C:\Users\User\source\repos\Second Code\obj\Debug\net6.0\refint\Second Code.dll
+C:\Users\User\source\repos\Second Code\obj\Debug\net6.0\Second Code.pdb
+C:\Users\User\source\repos\Second Code\obj\Debug\net6.0\Second Code.genruntimeconfig.cache
+C:\Users\User\source\repos\Second Code\obj\Debug\net6.0\ref\Second Code.dll
