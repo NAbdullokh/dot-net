@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using static System.Console;
 
 
 namespace MyFirstProject
@@ -8,8 +9,8 @@ internal class Program
     {
         static void Main(string[] args)
         {
-            string s = "Hello";
-            Console.WriteLine($"Hello\a + {s}");
+        ConsoleKeyInfo info =  Console.ReadKey();
+            WriteLine(info.Key);
         }
     } 
 } 
